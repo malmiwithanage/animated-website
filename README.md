@@ -1,7 +1,7 @@
 # 🌀 Zentry Inspired Animated Website 
 
 Hey there! 👋  
-This is a visually-rich, animated website I built for learning and exploring advanced UI/UX techniques, inspired by like **Zentry**.  
+This is a visually-rich, animated website I built for learning and exploring advanced UI/UX techniques, inspired by **Zentry**.  
 It uses scroll-triggered animations, geometric transitions, and immersive video storytelling to create a luxurious and modern browsing experience.
 
 🌐 **Live Preview:**  
